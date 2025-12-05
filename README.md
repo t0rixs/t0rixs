@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi, I'm t0rixs (宮野柊太)
 
-<!--
-**t0rixs/t0rixs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 神山まるごと高専 Student  
+- Procon チーム **七味唐辛子**  
+- モバイル・IoT・デザインなど幅広く開発しています
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+#### **Languages / Frameworks**
+- Flutter, Dart  
+- HTML / CSS / JavaScript  
+- C  
+
+#### **Backend / Tools**
+- Supabase  
+- GitHub  
+- Discord / Slack  
+- Notion  
+
+#### **Design / Creative**
+- Illustrator, Photoshop  
+- Figma  
+- Premiere Pro, Final Cut Pro  
+- Blender  
+
+---
+
+###Contact
+- Mail=shutamix@gmail.com
+- X   =https://x.com/kmc_kind
