@@ -22,6 +22,7 @@
 
 ---
 
-###Contact
+## Contact
+
 - Mail=shutamix@gmail.com
 - X   =https://x.com/kmc_kind
