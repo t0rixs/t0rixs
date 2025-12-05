@@ -14,7 +14,7 @@
 [![Languages](https://skillicons.dev/icons?i=flutter,dart,html,css,js,c)](https://skillicons.dev)
 
 ### Backend / Tools
-[![Backend](https://skillicons.dev/icons?i=supabase,github,git,discord,slack,notion)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=supabase,github,discord,notion)](https://skillicons.dev)
 
 ### Design / Creative
 [![Design](https://skillicons.dev/icons?i=ai,ps,figma,pr,blender,apple)](https://skillicons.dev)
